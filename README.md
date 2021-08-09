@@ -1,1 +1,1 @@
-# Desarrrollo-Basado-en-Plataformas
+Laboratorio 6: Android App + Base de Datos
