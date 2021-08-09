@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarteraClientes</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_direccion">Direccion:</string>
+    <string name="hint_celular">Celular:</string>
+    <string name="hint_email">Email:</string>
+    <string name="menu_nuevo_guarda">Guardar registro</string>
+    <string name="menu_nuevo_salir">Salir</string>
+    <string name="menu_editar_editar">Editar registro</string>
+    <string name="menu_editar_eliminar">Borrar registro</string>
+    <string name="menu_editar_salir">Salir</string>
+    <string name="menu">Nuevo registro</string>
+    <string name="btn_guarda">Guardar registro</string>
+
+</resources>
